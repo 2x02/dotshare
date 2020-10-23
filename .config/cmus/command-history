@@ -1,0 +1,28 @@
+player-stop
+player-play
+player-pause
+player-pause-playback
+player-stopq
+set status_display_program=/home/su/.config/scripts/cmus.sh
+set start_view=/home/su/.config/scripts/cmus.sh
+set status_display_program=$HOME/.config/cmus/cmus_output
+set status_display_program=cmus.sh
+set status_display_program=$HOME/.config/scripts/cmus.sh
+:set status_display_program
+shell !
+shell 
+! 
+vol +100%
+vol +10
+vol 1
+vol 100
+vol 
+vol 50
+add /home/su/Music/Dharia - (Uu Nai Na) Sugar And Brownies.mp3
+shell
+add /home/su/Download
+q
+load
+add
+refresh
+?
